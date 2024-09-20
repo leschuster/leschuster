@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Lennox Schuster 👋
+
+- 🖥️ I've been coding for 5+ years
+- 🏫 I'm currently studying Computer Science
+- 🦀 I’m also learning Rust
+- 💻 I have experience with front-end and back-end web-development
 
 <!--
 **leschuster/leschuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
