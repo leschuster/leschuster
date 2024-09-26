@@ -2,9 +2,9 @@
 
 - 🏫 Computer Science student from Germany
 - 🖥️ Fullstack Developer
-- ⚡ Technologies: Go, TypeScript, JavaScript, Anuglar, React, SQL
-- 🌱 Currently learning Rust
-- 📫 E-Mail: contact@lennox-schuster.dev
+- ⚡ Technologies: Go, TypeScript, JavaScript, Angular, React, SQL
+- 🦀 Currently learning Rust
+- 📫 E-Mail: [contact@lennox-schuster.dev](mailto:contact@lennox-schuster.dev)
 
 <!--
 **leschuster/leschuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
